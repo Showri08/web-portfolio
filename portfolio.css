@@ -86,7 +86,8 @@ header{
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 350px 0 230px;
+    margin: 0 60px 0 230px;
+    gap: 80px;
 }
 
 .banner-content{
